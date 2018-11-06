@@ -1,0 +1,30 @@
+{
+    "run": {
+        "default": "",
+        "items": [
+            {
+                "name": "my-app",
+                "projectName": "my-app",
+                "workingDirectory": "/Users/vilinice/Desktop/my_project/project/my-app",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    },
+    "debug": {
+        "default": "",
+        "items": [
+            {
+                "name": "my-app",
+                "projectName": "my-app",
+                "workingDirectory": "/Users/vilinice/Desktop/my_project/project/my-app",
+                "args": [],
+                "vmargs": [],
+                "env": {},
+                "preLaunchTask": ""
+            }
+        ]
+    }
+}
